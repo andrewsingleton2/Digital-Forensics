@@ -12,8 +12,7 @@ Steganography · MD5 · Autopsy · FTK Imager · Chain of Custody · SHA1 · VMw
 ![image](https://github.com/andrewsingleton2/Digital-Forensics/assets/150304510/81a785a5-28e6-4fdd-95aa-f46d422dd641)
 ![image](https://github.com/andrewsingleton2/Digital-Forensics/assets/150304510/154c868d-4bd6-4d03-8092-0b1218753ed8)
 ![image](https://github.com/andrewsingleton2/Digital-Forensics/assets/150304510/5aa0abe6-a550-43c4-afc2-c7839bd7e110)
-### Images displayed above are directly from the forensic report
-
+## - ##
 ![image](https://github.com/andrewsingleton2/Digital-Forensics/assets/150304510/aebdfca2-011b-4466-93ef-5c89fd5ee903)
 
 ### Source of image 4:
